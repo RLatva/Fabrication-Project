@@ -3,10 +3,11 @@ Hellobot bill of materials:
 - 1x Micro Servo
 - 1x HC-SR04 ultrasonic sensor
 - 2x resistors ~220 Ω
+- 1x resistor ~2500 Ω
 - 1x 9V battery
 - 2x red LED
 - 1x Arduino uno
 - 1x Breadboard
-- min 17x Wires
+- min 20x Wires
 
 Plywood for constructing the body
